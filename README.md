@@ -1,2 +1,150 @@
 # Poster-References
 References for poster "Evaluation of Cyanobacterial and Dinoflagellate Extracts for Alzheimer’s Disease-Relevant Effects Using Zebrafish Larvae"
+ECCO XLIV
+September, 14-16, 2026
+University of the Azores
+Ponta Delgada, Azores, Portugal
+
+1.	World Health Organization. (2025). Dementia. https://www.who.int/news-room/fact-sheets/detail/dementia
+2.	Fu, H., Huang, H., Liao, S., & Dai, Z. (2025). Global burden of Alzheimer's disease and other dementias (1990-2021): Inequality, frontier, and decomposition analysis. Frontiers in Aging Neuroscience, 17, 1637029. https://doi.org/10.3389/fnagi.2025.1637029
+3.	Niu, H., Álvarez-Álvarez, I., Guillén-Grima, F., & Aguinaga-Ontoso, I. (2017). Prevalence and incidence of Alzheimer's disease in Europe: A meta-analysis. Neurología (English Edition), 32(8), 523-532. https://doi.org/10.1016/j.nrl.2016.02.016
+
+4.	Alzheimer's Association. (2025). 2025 Alzheimer's disease facts and figures. Alzheimer's & Dementia, 21(4), e70235. https://doi.org/10.1002/alz.70235
+
+5.	Catanesi, M., Caioni, G., Castelli, V., Benedetti, E., D'Angelo, M., & Cimini, A. (2021). Benefits under the sea: The role of marine compounds in neurodegenerative disorders. Marine Drugs, 19(1), 24. https://doi.org/10.3390/md19010024
+
+6.	Huang, S., Lu, Y., Fang, W., Huang, Y., Li, Q., & Xu, Z. (2025). Neurodegenerative diseases and neuroinflammation-induced apoptosis. Open Life Sciences, 20(1), 20221051. https://doi.org/10.1515/biol-2022-1051
+
+7.	Breijyeh, Z., & Karaman, R. (2020). Comprehensive review on Alzheimer's disease: Causes and treatment. Molecules, 25(24), 5789. https://doi.org/10.3390/molecules25245789
+
+8.	Chen, S., Cao, Z., Nandi, A., Counts, N., Jiao, L., Prettner, K., Kuhn, M., Seligman, B., Tortorice, D., Vigo, D., Wang, C., & Bloom, D. E. (2024). The global macroeconomic burden of Alzheimer's disease and other dementias: Estimates and projections for 152 countries or territories. The Lancet Global Health, 12(9), e1534–e1543. https://doi.org/10.1016/S2214-109X(24)00264-X
+
+9.	Castaneda, A., Ferraz, R., Vieira, M., Cardoso, I., Vasconcelos, V., & Martins, R. (2021). Bridging cyanobacteria to neurodegenerative diseases: A new potential source of bioactive compounds against Alzheimer's disease. Marine Drugs, 19(6), 343. https://doi.org/10.3390/md19060343
+
+10.	Grabowska, W., Bijak, M., Szelenberger, R., Gorniak, L., Podogrocki, M., Harmata, P., & Cichon, N. (2025). Acetylcholinesterase as a multifunctional target in amyloid-driven neurodegeneration: From dual-site inhibitors to anti-aggregation strategies. International Journal of Molecular Sciences, 26(17), 8726. https://doi.org/10.3390/ijms26178726
+
+11.	Rotter, A., Barbier, M., Bertoni, F., Bones, A. M., Cancela, M. L., Carlsson, J., Carvalho, M. F., et al. (2021). The essentials of marine biotechnology. Frontiers in Marine Science, 8, 629629. https://doi.org/10.3389/fmars.2021.629629
+
+12.	Lin, J., Huang, L., Yu, J., Xiang, S., Wang, J., Zhang, J., Yan, X., Cui, W., He, S., & Wang, Q. (2016). Fucoxanthin, a marine carotenoid, reverses scopolamine-induced cognitive impairments in mice and inhibits acetylcholinesterase in vitro. Marine Drugs, 14(4), 67. https://doi.org/10.3390/md14040067
+
+13.	Schirrmeister, B. E., Gugger, M., & Donoghue, P. C. J. (2015). Cyanobacteria and the Great Oxidation Event: Evidence from genes and fossils. Palaeontology, 58(5), 769-785. https://doi.org/10.1111/pala.12178
+
+14.	Li, Z., Zhu, X., Wu, Z., Sun, T., & Tong, Y. (2023). Recent advances in cyanotoxin synthesis and applications: A comprehensive review. Microorganisms, 11(11), 2636. https://doi.org/10.3390/microorganisms11112636
+
+15.	Du, X., Liu, H., Yuan, L., Wang, Y., Ma, Y., Wang, R., Chen, X., Losiewicz, M. D., Guo, H., & Zhang, H. (2019). The diversity of cyanobacterial toxins on structural characterization, distribution and identification: A systematic review. Toxins, 11(9), 530. https://doi.org/10.3390/toxins11090530
+
+16.	Encarnação, T., Pais, A. A., Campos, M. G., & Burrows, H. D. (2015). Cyanobacteria and microalgae: A renewable source of bioactive compounds and other chemicals. Science Progress, 98(Pt 2), 145-168. https://doi.org/10.3184/003685015X14298590596266
+
+17.	Botelho, M. J., Milinovic, J., Bandarra, N. M., & Vale, C. (2022). Alzheimer's disease and toxins produced by marine dinoflagellates: An issue to explore. Marine Drugs, 20(4), 253. https://doi.org/10.3390/md20040253
+
+18.	Botana, L. M., Alonso, E., & Vale, C. (2012). Use of YTX and analogues and derivatives for treating and/or preventing neurodegenerative diseases linked to tau and β-amyloid (European Patent Application No. EP2535335A1).
+
+19.	Botana, L. M., Alonso, E., & Vale, C. (2012). Use of gambierol for treating and/or preventing neurodegenerative diseases related to tau and beta-amyloid (U.S. Patent Application No. US20120283321A1).
+
+20.	Alonso, E., Vale, C., Vieytes, M. R., LaFerla, F. M., Giménez-Llort, L., & Botana, L. M. (2011). The cholinergic antagonist gymnodimine improves Aβ and tau neuropathology in an in vitro model of Alzheimer's disease. Cellular Physiology and Biochemistry, 27(6), 783–794. https://doi.org/10.1159/000330086
+
+21.	Alonso, E., Vale, C., Vieytes, M. R., LaFerla, F. M., Giménez-Llort, L., & Botana, L. M. (2011). 13-Desmethyl spirolide-C is neuroprotective and reduces intracellular Aβ and hyperphosphorylated tau in vitro. Neurochemistry International, 59(7), 1056-1065. https://doi.org/10.1016/j.neuint.2011.08.013
+
+22.	Cordeiro, R., Luz, R., Vilaverde, J., Vasconcelos, V., Fonseca, A., & Gonçalves, V. (2020). Distribution of toxic cyanobacteria in volcanic lakes of the Azores Islands. Water, 12(12), 3385. https://doi.org/10.3390/w12123385
+
+23.	Jung, P., D'Agostino, P. M., Büdel, B., & Lakatos, M. (2021). Symphyonema bifilamentata sp. nov., the right Fischerella ambigua 108b: Half a decade of research on taxonomy and bioactive compounds in new light. Microorganisms, 9(4), 745. https://doi.org/10.3390/microorganisms9040745
+
+24.	Rynjah, D., Lamare, D. W., Pun, B., et al. (2026). Exploring antimicrobial activity of Neowestiellopsis persica metabolites through in vitro and in silico approach. Current Microbiology, 83, 134. https://doi.org/10.1007/s00284-025-04639-7
+
+25.	Salmaso, N., Cerasino, L., Boscaini, A., & Capelli, C. (2016). Planktic Tychonema (Cyanobacteria) in the large lakes south of the Alps: Phylogenetic assessment and toxigenic potential. FEMS Microbiology Ecology, 92(10), fiw155. https://doi.org/10.1093/femsec/fiw155
+
+26.	Orefice, I., Balzano, S., Romano, G., & Sardo, A. (2023). Amphidinium spp. as a source of antimicrobial, antifungal, and anticancer compounds. Life, 13(11), 2164. https://doi.org/10.3390/life13112164
+
+27.	Siddiqui, S., Siddiqui, H., Riguene, E., & Nomikos, M. (2025). Zebrafish: A versatile and powerful model for biomedical research. BioEssays, 47(12), e70080. https://doi.org/10.1002/bies.70080
+
+28.	Choi, T. Y., Choi, T. I., Lee, Y. R., et al. (2021). Zebrafish as an animal model for biomedical research. Experimental & Molecular Medicine, 53, 310–317. https://doi.org/10.1038/s12276-021-00571-5
+
+29.	Benjamin, D. C., & Hynes, R. O. (2017). Intravital imaging of metastasis in adult zebrafish. BMC Cancer, 17(1), 660. https://doi.org/10.1186/s12885-017-3647-0
+
+30.	Antinucci, P., & Hindges, R. (2016). A crystal-clear zebrafish for in vivo imaging. Scientific Reports, 6, 29490. https://doi.org/10.1038/srep29490
+
+31.	White, R. M., Sessa, A., Burke, C., Bowman, T., LeBlanc, J., Ceol, C., Bourque, C., Dovey, M., Goessling, W., Burns, C. E., & Zon, L. I. (2008). Transparent adult zebrafish as a tool for in vivo transplantation analysis. Cell Stem Cell, 2(2), 183–189. https://doi.org/10.1016/j.stem.2007.11.002
+
+32.	Luz, R., Gonçalves, V., Vasconcelos, V., & Urbatzka, R. (2024). Metabolite profiling and bioactivity assessment of cyanobacteria from the Azores reveals unique producers of cytotoxic and lipid reducing compounds. Algal Research, 83, 103703. https://doi.org/10.1016/j.algal.2024.103703
+
+33.	Cordeiro, R., Azevedo, J., Luz, R., Vasconcelos, V., Gonçalves, V., & Fonseca, A. (2021). Cyanotoxin screening in BACA culture collection: Identification of new cylindrospermopsin producing cyanobacteria. Toxins, 13(4), 258. https://doi.org/10.3390/toxins13040258
+
+34.	Allen, M. M. (1968). Simple conditions for growth of unicellular blue-green algae on plates. Journal of Phycology, 4(1), 1-4. https://doi.org/10.1111/j.1529-8817.1968.tb04667.x
+
+35.	Allen, M. M., & Stanier, R. Y. (1968). Selective isolation of blue-green algae from water and soil. Journal of General Microbiology, 51(2), 203-209. https://doi.org/10.1099/00221287-51-2-203
+
+36.	Rippka, R., Deruelles, J., Waterbury, J. B., Herdman, M., & Stanier, R. Y. (1979). Generic assignments, strain histories and properties of pure cultures of cyanobacteria. Journal of General Microbiology, 111(1), 1-61. https://doi.org/10.1099/00221287-111-1-1
+
+37.	McFadden, G. I., & Melkonian, M. (1986). Use of Hepes buffer for microalgal culture media and fixation for electron microscopy. Phycologia, 25(4), 551–557. https://doi.org/10.2216/i0031-8884-25-4-551.1
+
+38.	Schwartz, W. (1975), Janet R. Stein (Editor), Handbook of Phycological Methods, Culture Methods and Growth Measurements. XII, 448 S., 52 Abb., 44 Tab. Cambridge 1973: University Press, Ł 8.—. Z Allg Mikrobiol, 15: 216-216. https://doi.org/10.1002/jobm.19750150322
+
+39.	Kyzar, E. J., Collins, C., Gaikwad, S., Green, J., Roth, A., & Kalueff, A. V. (2012). Zebrafish behavioral assays for translational neuroscience research. Trends in Neurosciences, 35(7), 394-406.
+
+40.	Ingebretson, J. J., & Masino, M. A. (2013). Quantification of locomotor activity in larval zebrafish. Journal of Neuroscience Methods, 212(1), 77-85. https://doi.org/10.1016/j.jneumeth.2012.10.023
+
+41.	Ellman, G. L., Courtney, K. D., Andres, V., Jr., & Feather-Stone, R. M. (1961). A new and rapid colorimetric determination of acetylcholinesterase activity. Biochemical Pharmacology, 7, 88-95. https://doi.org/10.1016/0006-2952(61)90145-9
+
+42.	Gravato, C., Abe, F. R., de Oliveira, D. P., Soares, A. M. V. M., & Domingues, I. (2021). Acetylcholinesterase (AChE) activity in embryos of zebrafish. Methods in Molecular Biology, 2240, 119-124. https://doi.org/10.1007/978-1-0716-1091-6_10
+
+43.	Déciga-Campos, M., Siles-Guevara, J., Gil-López, S. A., Pineda-Oliveros, J., & Ortíz-Andrade, R. R. (2025). Scopolamine-induced amnesia in zebrafish: Behavioral characterization and pharmacological reversal. Animals, 15(17), 2624. https://doi.org/10.3390/ani15172624
+
+44.	Mugoni, V., Camporeale, A., & Santoro, M. M. (2014). Analysis of oxidative stress in zebrafish embryos. Journal of Visualized Experiments, (89), e51328. https://doi.org/10.3791/51328
+
+45.	Bruni, G., Lakhani, P., & Kokel, D. (2020). Multi-parameter behavioral phenotyping of the MPP⁺ model of Parkinson's disease in zebrafish. Frontiers in Behavioral Neuroscience, 14, 623924. https://doi.org/10.3389/fnbeh.2020.623924
+
+46.	Luo, L., Yan, Y., et al. (2024). Aluminum chloride and D-galactose induced a zebrafish model of Alzheimer's disease with cognitive deficits and aging. Journal of Chemical Neuroanatomy, 144, 102298. https://doi.org/10.1016/j.csbj.2024.05.036
+
+47.	Scholz, L. A., Mancienne, T., Stednitz, S. J., Scott, E. K., & Lee, C. Y. (2025). Plug-and-play automated behavioral tracking of zebrafish larvae with DeepLabCut and SLEAP: Pre-trained networks and datasets of annotated poses [Preprint]. bioRxiv. https://doi.org/10.1101/2025.06.04.657938
+
+48.	Gore, S. V., Kakodkar, R., Hernández, T. D. R., Edmister, S. T., & Creton, R. (2023). Zebrafish Larvae Position Tracker (Z-LaP Tracker): A high-throughput deep-learning behavioral approach for the identification of calcineurin pathway-modulating drugs using zebrafish larvae. Scientific Reports, 13(1), 3174. https://doi.org/10.1038/s41598-023-30303-w
+
+49.	Jouary, A., Silva, P. T. M., Laborde, A., Mata, J. M., Marques, J. C., Collins, E. M. D., Peterson, R. T., Machens, C. K., & Orger, M. B. (2024). Megabouts: A flexible pipeline for zebrafish locomotion analysis [Preprint]. bioRxiv. https://doi.org/10.1101/2024.09.14.613078
+
+50.	Xia, X., et al. (2018). Psoralen induces developmental toxicity in zebrafish embryos/larvae through oxidative stress, apoptosis, and energy metabolism disorder. Frontiers in Pharmacology, 9, 1457. armacol., 17 December 2018. https://doi.org/10.3389/fphar.2018.01457
+
+51.	Metcalf, J.S., Banack, S.A., Wessel, R.A. et al. Toxin Analysis of Freshwater Cyanobacterial and Marine Harmful Algal Blooms on the West Coast of Florida and Implications for Estuarine Environments. Neurotox Res 39, 27–35 (2021). https://doi.org/10.1007/s12640-020-00248-3
+
+52.	Simões, J. L. B., Sobierai, L. D., Leal, I. F., Dos Santos, M. V. R., Coiado, J. V., & Bagatini, M. D. (2023). Action of the purinergic and cholinergic anti-inflammatory pathways on oxidative stress in patients with Alzheimer's disease in the context of the COVID-19 pandemic. Neuroscience, 512, 110–132. https://doi.org/10.1016/j.neuroscience.2022.12.007
+
+53.	Colović, M. B., Krstić, D. Z., Lazarević-Pašti, T. D., Bondžić, A. M., & Vasić, V. M. (2013). Acetylcholinesterase inhibitors: Pharmacology and toxicology. Current Neuropharmacology, 11(3), 315 335. https://doi.org/10.2174/1570159X11311030006
+
+54.	Chen, W., Dou, J., Xu, X., Ma, X., Chen, J., & Liu, X. (2024). β-Cyclocitral, a novel AChE inhibitor, contributes to the defense of Microcystis aeruginosa against Daphnia grazing. Journal of Hazardous Materials, 465, 133248. https://doi.org/10.1016/j.jhazmat.2023.133248
+
+55.	Mirat, O., Sternberg, J. R., Severi, K. E., & Wyart, C. (2013). ZebraZoom: An automated program for high-throughput behavioral analysis and categorization. Frontiers in Neural Circuits, 7, 107. https://doi.org/10.3389/fncir.2013.00107
+56.	Denoël, M., Libon, S., Kestemont, P., Brasseur, C., Focant, J.-F., & De Pauw, E. (2013). Effects of a sublethal pesticide exposure on locomotor behavior: A video-tracking analysis in larval amphibians. Chemosphere, 90(3), 945–951. https://doi.org/10.1016/j.chemosphere.2012.06.037
+
+57.	Anichtchik, O. V., Kaslin, J., Peitsaro, N., Scheinin, M., & Panula, P. (2004). Neurochemical and behavioural changes in zebrafish Danio rerio after systemic administration of 6-hydroxydopamine and 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine. Journal of Neurochemistry, 88, 443–453. https://doi.org/10.1111/j.1471-4159.2004.02190.x
+
+58.	Beauvais, S. L., Jones, S. B., Parris, J. T., Brewer, S. K., & Little, E. E. (2001). Cholinergic and behavioral neurotoxicity of carbaryl and cadmium to larval rainbow trout (Oncorhynchus mykiss). Ecotoxicology and Environmental Safety, 49(1), 84–90. https://doi.org/10.1006/eesa.2000.2032
+
+59.	Müller, M. L., & Bohnen, N. I. (2013). Cholinergic dysfunction in Parkinson's disease. Current Neurology and Neuroscience Reports, 13(9), 377. https://doi.org/10.1007/s11910-013-0377-9
+
+60.	Jouary, A., Silva, P. T. M., Laborde, A., Mata, J. M., Marques, J. C., Collins, E. M. D., Peterson, R. T., Machens, C. K., & Orger, M. B. (2025). Megabouts: A flexible pipeline for zebrafish locomotion analysis. eLife, 14, RP107859. https://doi.org/10.7554/eLife.107859.1
+
+61.	Orger Lab. (n.d.).Megabouts documentation. Megabouts. Retrieved August 15, 2026, from https://megabouts.ai/api/index.html
+
+62.	Carbo-Tano, M., Lapoix, M., Jia, X., et al. (2023). The mesencephalic locomotor region recruits V2a reticulospinal neurons to drive forward locomotion in larval zebrafish. Nature Neuroscience, 26, 1775–1790. https://doi.org/10.1038/s41593-023-01418-0
+
+63.	Siregar, P., Audira, G., Feng, L.-Y., Lee, J.-H., Santoso, F., Yu, W.-H., Lai, Y.-H., Li, J.-H., Lin, Y.-T., Chen, J.-R., & Hsiao, C.-D. (2021). Pharmaceutical assessment suggests locomotion hyperactivity in zebrafish triggered by arecoline might be associated with multiple muscarinic acetylcholine receptors activation. Toxins, 13(4), 259. https://doi.org/10.3390/toxins13040259
+
+64.	Schnörr, S. J., Steenbergen, P. J., Richardson, M. K., & Champagne, D. L. (2012). Measuring thigmotaxis in larval zebrafish. Behavioural Brain Research, 228(2), 367–374. https://doi.org/10.1016/j.bbr.2011.12.016
+
+65.	Liu, C., Cui, B., Hu, L., Li, R., Xiao, P., Zuo, J., Wang, Z., Ma, Z., Fan, Y., Zhang, H., & Li, R. (2025). Developmental neurotoxicity of an anatoxin-a-producing cyanobacteria (Aphanizomenon gracile) lysate to zebrafish (Danio rerio). Frontiers in Microbiology, 16, 1623621. https://doi.org/10.3389/fmicb.2025.1623621
+
+66.	Thiruvengadam, M., Venkidasamy, B., Subramanian, U., Samynathan, R., Ali Shariati, M., Rebezov, M., Girish, S., Thangavel, S., Dhanapal, A. R., Fedoseeva, N., Lee, J., & Chung, I. M. (2021). Bioactive compounds in oxidative stress-mediated diseases: Targeting the NRF2/ARE signaling pathway and epigenetic regulation. Antioxidants, 10(12), 1859. https://doi.org/10.3390/antiox10121859
+
+67.	Heckmann, M., Stadlbauer, V., Drotarova, I., Gramatte, T., Feichtinger, M., Arnaut, V., Atzmüller, S., Schwarzinger, B., Röhrl, C., Blank-Landeshammer, B., & Weghuber, J. (2024). Identification of oxidative-stress-reducing plant extracts from a novel extract library—Comparative analysis of cell-free and cell-based in vitro assays to quantitate antioxidant activity. Antioxidants, 13(3), 297. https://doi.org/10.3390/antiox13030297
+
+68.	da Silva Pinto Neto, J., Serra, G. M., Xavier, L. P., & Santos, A. V. (2025). Chemodiversity and biotechnological potential of microginins. International Journal of Molecular Sciences, 26(13), 6117. https://doi.org/10.3390/ijms26136117
+
+69.	Verma, S., Suman, P., Mandal, S., Kumar, R., Sahana, N., Siddiqui, N., & Chakdar, H. (2023). Assessment and identification of bioactive metabolites from terrestrial Lyngbya spp. responsible for antioxidant, antifungal, and anticancer activities. Brazilian Journal of Microbiology, 54(4), 2671–2687. https://doi.org/10.1007/s42770-023-01111-1
+
+70.	Demay, J., Halary, S., Knittel-Obrecht, A., Villa, P., Duval, C., Hamlaoui, S., Roussel, T., Yéprémian, C., Reinhardt, A., Bernard, C., & Marie, B. (2021). Anti-inflammatory, antioxidant, and wound-healing properties of cyanobacteria from thermal mud of Balaruc-les-Bains, France: A multi-approach study. Biomolecules, 11(1), 28. https://doi.org/10.3390/biom11010028
+
+71.	Guerreiro, A., Andrade, M. A., Menezes, C., Vilarinho, F., & Dias, E. (2020). Antioxidant and cytoprotective properties of cyanobacteria: Potential for biotechnological applications. Toxins, 12(9), 548. https://doi.org/10.3390/toxins12090548
+
+72.	Cheng, Y.-C., & Prusoff, W. H. (1973). Relationship between the inhibition constant (Kᵢ) and the concentration of inhibitor which causes 50 per cent inhibition (I₅₀) of an enzymatic reaction. Biochemical Pharmacology, 22(23), 3099–3108. https://doi.org/10.1016/0006-2952(73)90196-2
+
+73.	Refaay, D. A., Abdel-Hamid, M. I., Alyamani, A. A., Abdel Mougib, M., Ahmed, D. M., Negm, A., Mowafy, A. M., Ibrahim, A. A., & Mahmoud, R. M. (2022). Growth optimization and secondary metabolites evaluation of Anabaena variabilis for acetylcholinesterase inhibition activity. Plants, 11(6), 735. https://doi.org/10.3390/plants11060735
+
